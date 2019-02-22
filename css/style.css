@@ -1,0 +1,84 @@
+
+.my_nav{
+	-webkit-border-radius: 0;
+	border-radius: 0;
+}
+.navbar-header .my_nav ul{
+	list-style-type: none;
+	float: left;
+
+}
+.navbar-header .my_nav ul li{
+	line-height: 50px;
+	display: inline-block;
+	margin-left: 50px;
+	
+}
+.navbar-header .my_nav ul li a{
+	color: white;
+}
+
+.my_nav a:hover{
+	font-weight: bold;
+	text-decoration: none;
+
+}
+.my_footer{
+	background-color: black;
+	color: white;
+	border: none;
+	border-radius: 0;
+	margin-bottom: 0px;
+}
+.my_footer a{
+	color: white;
+
+}
+.my_footer a:hover{
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.my_footer-content li{
+	list-style-type: none;
+	text-align: left;
+	margin-top: 10px;
+}
+
+.my_footer-logo li{
+	list-style-type: none;
+	display: block;
+	float: left;
+	margin-right: 15px;
+}
+
+/* .thumbnail{
+	transform: scale(1);
+	transition: 0.5s all;
+}
+.thumbnail:hover{
+transform: scale(1.05);
+
+} */
+.my_products{
+	margin-top: 10px;
+}
+/* .my_products p b{
+color: red;
+
+} */
+/* .my_products h3{
+	font-weight: bold;
+
+} */
+.my_modal h3{
+font-weight: bold;
+
+}
+.my_modal h4{
+
+	color: red;
+}
+
+
+

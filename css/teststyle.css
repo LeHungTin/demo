@@ -1,0 +1,100 @@
+*{
+	box-sizing: border-box;
+}
+.my_logo{
+	font-size: 2em;
+	font-weight: bold;
+}
+.my_nav{
+	-webkit-border-radius: 0;
+	border-radius: 0;
+}
+
+.my_nav a:hover{
+	font-weight: bold;
+}
+
+.thumbnail{
+	transform: scale(1);
+	transition: 0.5s all;
+}
+.thumbnail:hover{
+transform: scale(1.05);
+
+}
+.c{
+	width: 100px
+	mask-border-repeat: ;
+}
+.my_products p b{
+color: red;
+
+}
+.my_products h3{
+	font-weight: bold;
+
+}
+.my_modal h3{
+font-weight: bold;
+
+}
+.my_modal h4{
+
+	color: red;
+}
+.my_footer{
+	background-color: #000000;
+	 color:  #ffffff;
+}
+.my_footer_area{
+	height: 40px;
+
+}
+
+.my_footer_title{
+ text-transform: uppercase;
+ font-weight: bold;
+ border-bottom: 1px solid  #ffffff;
+
+}
+.my_footer_list{
+	margin-top: 5px;
+	padding-bottom: 5px;
+}
+.my_footer_list ul{
+	padding-left: 0px;
+	padding-top: 5px;
+
+}
+.my_footer_list ul li{
+	list-style: none;
+	display: block;
+	height: 24px;
+	line-height: 24px;
+
+}
+.my_footer_list_contact ul{
+	padding-left: 0px;
+	padding-top: 5px;
+	margin-top: 5px;
+}
+.my_footer_list_contact ul li{
+	list-style: none;
+	display: block;
+	
+	
+
+}
+.my_footer_list ul li a{
+	color: #ffffff;
+}
+.my_footer_list ul li a:hover{
+	text-decoration: none;
+	color: #66ff99;
+}
+
+
+
+
+
+

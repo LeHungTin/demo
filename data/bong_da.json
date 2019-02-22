@@ -1,0 +1,52 @@
+[
+	{
+		"name":"bóng đá 1",
+		"image":"images/bong_da/1.jpg",
+		"price":"1100",
+		"about":"Đây là một sản phẩm cho bóng đá"
+	},
+	{
+		"name":"bóng đá 2",
+		"image":"images/bong_da/2.jpg",
+		"price":"1200",
+		"about":"Đây là một sản phẩm cho bóng đá"
+	},
+	{
+		"name":"bóng đá 3",
+		"image":"images/bong_da/3.jpg",
+		"price":"1300",
+		"about":"Đây là một sản phẩm cho bóng đá"
+	},
+	{
+		"name":"bóng đá 4",
+		"image":"images/bong_da/4.jpg",
+		"price":"1400",
+		"about":"Đây là một sản phẩm cho bóng đá"
+	},
+	{
+		"name":"bóng đá 5",
+		"image":"images/bong_da/5.jpg",
+		"price":"1500",
+		"about":"Đây là một sản phẩm cho bóng đá"
+	},
+	{
+		"name":"bóng đá 6",
+		"image":"images/bong_da/6.jpg",
+		"price":"1600",
+		"about":"Đây là một sản phẩm cho bóng đá"
+	},
+	{
+		"name":"bóng đá 7",
+		"image":"images/bong_da/7.jpg",
+		"price":"1700",
+		"about":"Đây là một sản phẩm cho bóng đá"
+	},
+	{
+		"name":"bóng đá 8",
+		"image":"images/bong_da/8.jpg",
+		"price":"1800",
+		"about":"Đây là một sản phẩm cho bóng đá"
+	}
+
+
+]

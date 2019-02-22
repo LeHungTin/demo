@@ -1,0 +1,52 @@
+[
+	{
+		"name":"Kid 1",
+		"image":"images/kid/1.jpg",
+		"price":"1100",
+		"about":"Đây là một sản phẩm dành cho trẻ em"
+	},
+	{
+		"name":"Kid 2",
+		"image":"images/kid/2.jpg",
+		"price":"1200",
+		"about":"Đây là một sản phẩm dành cho trẻ em"
+	},
+	{
+		"name":"Kid 3",
+		"image":"images/kid/3.jpg",
+		"price":"1300",
+		"about":"Đây là một sản phẩm dành cho trẻ em"
+	},
+	{
+		"name":"Kid 4",
+		"image":"images/kid/4.jpg",
+		"price":"1400",
+		"about":"Đây là một sản phẩm dành cho trẻ em"
+	},
+	{
+		"name":"Kid 5",
+		"image":"images/kid/5.jpg",
+		"price":"1500",
+		"about":"Đây là một sản phẩm dành cho trẻ em"
+	},
+	{
+		"name":"Kid 6",
+		"image":"images/kid/6.jpg",
+		"price":"1600",
+		"about":"Đây là một sản phẩm dành cho trẻ em"
+	},
+	{
+		"name":"Kid 7",
+		"image":"images/kid/7.jpg",
+		"price":"1700",
+		"about":"Đây là một sản phẩm dành cho trẻ em"
+	},
+	{
+		"name":"Kid 8",
+		"image":"images/kid/8.jpg",
+		"price":"1800",
+		"about":"Đây là một sản phẩm dành cho trẻ em"
+	}
+
+
+]

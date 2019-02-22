@@ -1,0 +1,52 @@
+[
+	{
+		"name":"Kid 1",
+		"image":"images/kid/1.jpg",
+		"price":"1100",
+		"about":"Đây là một sản phẩm cho phụ nữ"
+	},
+	{
+		"name":"Kid 2",
+		"image":"images/kid/2.jpg",
+		"price":"1200",
+		"about":"Đây là một sản phẩm cho phụ nữ"
+	},
+	{
+		"name":"Women 3",
+		"image":"images/women/3.jpg",
+		"price":"1300",
+		"about":"Đây là một sản phẩm cho phụ nữ"
+	},
+	{
+		"name":"Women 4",
+		"image":"images/women/4.jpg",
+		"price":"1400",
+		"about":"Đây là một sản phẩm cho phụ nữ"
+	},
+	{
+		"name":"Women 5",
+		"image":"images/women/5.jpg",
+		"price":"1500",
+		"about":"Đây là một sản phẩm cho phụ nữ"
+	},
+	{
+		"name":"Women 6",
+		"image":"images/women/6.jpg",
+		"price":"1600",
+		"about":"Đây là một sản phẩm cho phụ nữ"
+	},
+	{
+		"name":"Women 7",
+		"image":"images/women/7.jpg",
+		"price":"1700",
+		"about":"Đây là một sản phẩm cho phụ nữ"
+	},
+	{
+		"name":"Women 8",
+		"image":"images/women/8.jpg",
+		"price":"1800",
+		"about":"Đây là một sản phẩm cho phụ nữ"
+	}
+
+
+]

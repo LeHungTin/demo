@@ -1,0 +1,52 @@
+[
+	{
+		"name":"Cầu lông 1",
+		"image":"images/cau_long/1.jpg",
+		"price":"1100",
+		"about":"Đây là một sản phẩm cho cầu lông"
+	},
+	{
+		"name":"Cầu lông 2",
+		"image":"images/cau_long/2.jpg",
+		"price":"1200",
+		"about":"Đây là một sản phẩm cho cầu lông"
+	},
+	{
+		"name":"Cầu lông 3",
+		"image":"images/cau_long/3.jpg",
+		"price":"1300",
+		"about":"Đây là một sản phẩm cho cầu lông"
+	},
+	{
+		"name":"Cầu lông 4",
+		"image":"images/cau_long/4.jpg",
+		"price":"1400",
+		"about":"Đây là một sản phẩm cho cầu lông"
+	},
+	{
+		"name":"Cầu lông 5",
+		"image":"images/cau_long/5.jpg",
+		"price":"1500",
+		"about":"Đây là một sản phẩm cho cầu lông"
+	},
+	{
+		"name":"Cầu lông 6",
+		"image":"images/cau_long/6.jpg",
+		"price":"1600",
+		"about":"Đây là một sản phẩm cho cầu lông"
+	},
+	{
+		"name":"Cầu lông 7",
+		"image":"images/cau_long/7.jpg",
+		"price":"1700",
+		"about":"Đây là một sản phẩm cho cầu lông"
+	},
+	{
+		"name":"Cầu lông 8",
+		"image":"images/cau_long/8.jpg",
+		"price":"1800",
+		"about":"Đây là một sản phẩm cho cầu lông"
+	}
+
+
+]

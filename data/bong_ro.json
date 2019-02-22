@@ -1,0 +1,52 @@
+[
+	{
+		"name":"Bóng rổ 1",
+		"image":"images/bong_ro/1.jpg",
+		"price":"1100",
+		"about":"Đây là một sản phẩm cho bóng rổ"
+	},
+	{
+		"name":"Bóng rổ 2",
+		"image":"images/bong_ro/2.jpg",
+		"price":"1200",
+		"about":"Đây là một sản phẩm cho bóng rổ"
+	},
+	{
+		"name":"Bóng rổ 3",
+		"image":"images/bong_ro/3.jpg",
+		"price":"1300",
+		"about":"Đây là một sản phẩm cho bóng rổ"
+	},
+	{
+		"name":"Bóng rổ 4",
+		"image":"images/bong_ro/4.jpg",
+		"price":"1400",
+		"about":"Đây là một sản phẩm cho bóng rổ"
+	},
+	{
+		"name":"Bóng rổ 5",
+		"image":"images/bong_ro/5.jpg",
+		"price":"1500",
+		"about":"Đây là một sản phẩm cho bóng rổ"
+	},
+	{
+		"name":"Bóng rổ 6",
+		"image":"images/bong_ro/6.jpg",
+		"price":"1600",
+		"about":"Đây là một sản phẩm cho bóng rổ"
+	},
+	{
+		"name":"Bóng rổ 7",
+		"image":"images/bong_ro/7.jpg",
+		"price":"1700",
+		"about":"Đây là một sản phẩm cho bóng rổ"
+	},
+	{
+		"name":"Bóng rổ 8",
+		"image":"images/bong_ro/8.jpg",
+		"price":"1800",
+		"about":"Đây là một sản phẩm cho bóng rổ"
+	}
+
+
+]

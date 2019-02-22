@@ -1,0 +1,52 @@
+[
+	{
+		"name":"Men 1",
+		"image":"images/men/1.jpg",
+		"price":"1100",
+		"about":"Đây là một sản phẩm cho đàn ông"
+	},
+	{
+		"name":"Men 2",
+		"image":"images/men/2.jpg",
+		"price":"1200",
+		"about":"Đây là một sản phẩm cho đàn ông"
+	},
+	{
+		"name":"Men 3",
+		"image":"images/men/3.jpg",
+		"price":"1300",
+		"about":"Đây là một sản phẩm cho đàn ông"
+	},
+	{
+		"name":"Men 4",
+		"image":"images/men/4.jpg",
+		"price":"1400",
+		"about":"Đây là một sản phẩm cho đàn ông"
+	},
+	{
+		"name":"Men 5",
+		"image":"images/men/5.jpg",
+		"price":"1500",
+		"about":"Đây là một sản phẩm cho đàn ông"
+	},
+	{
+		"name":"Men 6",
+		"image":"images/men/6.jpg",
+		"price":"1600",
+		"about":"Đây là một sản phẩm cho đàn ông"
+	},
+	{
+		"name":"Men 7",
+		"image":"images/men/7.jpg",
+		"price":"1700",
+		"about":"Đây là một sản phẩm cho đàn ông"
+	},
+	{
+		"name":"Men 8",
+		"image":"images/men/8.jpg",
+		"price":"1800",
+		"about":"Đây là một sản phẩm cho đàn ông"
+	}
+
+
+]
